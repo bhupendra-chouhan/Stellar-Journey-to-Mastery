@@ -25,7 +25,7 @@ A full-stack decentralized application (dApp) built on the Stellar blockchain. U
 
 - All the materials related to the smart contract can be found in the ``anonymous-feedback-smartcontract`` folder:
 - The path to the smart contract is:  ``./anonymous-feedback-smartcontract/contracts/hello_world/src/lib.rs``
-- [ ] Deployed smartcontract address: ``CCMV7DIUP36PZ2LJ4NXX2HKHJQIGVXMYTNPR5UAZJWRW64FYEV7ZGIP4``
+- Deployed smartcontract address: ``CCMV7DIUP36PZ2LJ4NXX2HKHJQIGVXMYTNPR5UAZJWRW64FYEV7ZGIP4``
 
 [View in contract-explorer](https://lab.stellar.org/r/testnet/contract/CBHLCEAS7RULUOMVBH2C7C5PMXMBWJSNYBE3S5W2U5GWIGXICJ4RMVHG)
 
